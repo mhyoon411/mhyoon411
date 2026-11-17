@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Minhyeok Youn
 
-<!--
-**mhyoon411/mhyoon411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biomedical Engineering & Computer Engineering Undergraduate**
 
-Here are some ideas to get you started:
+### 🔬 Research Interests
+-Medical Image Analysis
+-Explainable AI
+-Computer Vision & Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 01. Validating and Mitigating Shortcht Learning in Chest X-ray Classification
+Investigating whether deep learning models rely on non-lesion information when classifying chest X-ray images.
+
+- Analyzed model attention using Grad-CAM.
+- Investigated potential shortcut features, including medical artifacts and thoracic          boundaries.
+- Explored controlled image interventions, including artifact synthesis, boundary contrast    blur etc...
+
+### 02. Automated BBB-Based Locomotor Recovery Assessment in Spinal Cord-Injured Rats Using Deep Learning
+
+**Research objectives**
+- Develop an aoutomated BBB-based framework to assess locomotor recovery following spinal cord injury
+- Address limitations of keypoint-based tracking caused by occlusion and unreliable hindlimb localization.
+
+**Methodology**
+- Designed a muti-task classification framework for joint movement, weight support, coordination, and paw orientation.
+- Annotated 3-second video clips using BBB-related behavioral criteria
